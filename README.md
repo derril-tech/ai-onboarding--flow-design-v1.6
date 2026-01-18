@@ -1,9 +1,6 @@
 # 🧪 AI Onboarding Flow Designer
 **CrewAI + Mixpanel + Supabase + OpenAI GPT‑4.1-mini**
 
-🌐 **Live App (Vercel):**  
-[https://ai-onboarding-flow-design.vercel.app/](https://ai-onboarding-flow-design.vercel.app/)
-
 API & Web are deployed on Railway (see `RAILWAY_SETUP_2025.md`), with the Vercel web app proxying `/api/*` to the Railway API.
 
 > **Design, analyze, and refine SaaS onboarding flows using real analytics and AI agents—without leaving a single React page.**
